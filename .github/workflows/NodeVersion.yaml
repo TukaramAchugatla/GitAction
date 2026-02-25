@@ -1,4 +1,4 @@
-name: Deploy dist
+name: React Version
 on: [push,workflow_dispatch]
 jobs:
     test:
