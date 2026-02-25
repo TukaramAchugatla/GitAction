@@ -10,7 +10,4 @@ jobs:
             #     echo "cloning repo.."
             #     echo "${{toJson(github)}}"
             #     git clone https://github.com/${{github.repository}}.git
-            - name: Install Node
-              uses: actions/setup-node@v6
-              with:
-                node-version: '20'
+            
