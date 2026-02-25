@@ -1,7 +1,7 @@
-name: React Version
+name: React Dependences
 on: [push,workflow_dispatch]
 jobs:
-    ReactVersion:
+    ReactDependences:
         runs-on: ubuntu-latest
         steps:
             - name: Get Code
