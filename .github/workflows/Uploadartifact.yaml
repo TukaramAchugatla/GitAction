@@ -1,4 +1,4 @@
-name: Branches
+name: Update and Download Artifact
 # on: [push,workflow_dispatch]
 on:
   push:
